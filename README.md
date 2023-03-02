@@ -39,3 +39,11 @@ Microservices:
 Cloud service:
 
 
+## Guide to getting started:
+
+For developers, to get started clone this repository using the below git command.
+<code>git clone https://github.com/visnetai/visnet-frontend-interface.git</code>
+Navigate to the local repository and run the following command in the terminal to install all the dependencies.
+<code>npm install</code>
+To start the development server of the application run the below command in the terminal.
+<code>npm run dev</code>
