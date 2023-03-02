@@ -21,5 +21,7 @@ We hope this documentation provides a comprehensive overview of our AI applicati
 
 <iframe width="768" height="432" src="https://miro.com/app/embed/uXjVPhofS_U=/?pres=1&frameId=3458764547703090232&embedId=81715124679" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
+<img src='/media/Architecture_Flowchart.jpg' alt='architecture flowchart' style='height:432px;width:768px;'/>
+
 [Image]( https://miro.com/app/live-embed/uXjVPhofS_U=/?moveToViewport=-1105,-503,2504,1403&embedId=832521026360 "architecture")
 
