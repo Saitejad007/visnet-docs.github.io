@@ -19,5 +19,7 @@ Finally, the inference module allows users to use the trained model to make pred
 
 We hope this documentation provides a comprehensive overview of our AI application and its capabilities. If you have any questions or need assistance using the application, please do not hesitate to contact our support team.
 
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPhofS_U=/?moveToViewport=-1105,-503,2504,1403&embedId=832521026360" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
+[Image]( https://miro.com/app/live-embed/uXjVPhofS_U=/?moveToViewport=-1105,-503,2504,1403&embedId=832521026360 "architecture")
 
