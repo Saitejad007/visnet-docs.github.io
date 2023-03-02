@@ -1,4 +1,4 @@
-visnet-docs.github.io
+*visnet-docs.github.io*
 =====================
 
 
@@ -29,4 +29,13 @@ We hope this documentation provides a comprehensive overview of our AI applicati
 ## Tech Stack:
 
 Frontend:
-The client side of the application is built upon Next.JS which is framework on top of React.JS. 
+The client side of the application is built upon Next.JS which is framework on top of React.JS. Next.JS supports pre-rendering, code-splitting, inbuilt routing, it is incredibly fast and brings in many optimizing techniches to make the application fast and reliable.
+
+Backend:
+The server side of the application is built on Python with FastAPI framework. FastAPI is a RESTful web framework for building high performant, robust and production ready web server with Python.
+
+Microservices:
+
+Cloud service:
+
+
