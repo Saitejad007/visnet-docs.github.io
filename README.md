@@ -1,9 +1,10 @@
-# visnet-docs.github.io
+visnet-docs.github.io
+=====================
 
 
-Introduction:
+#Introduction:
 
-Welcome to the documentation for our AI application! In this document, we will provide an overview of the AI application, its purpose, and its capabilities. We will also outline the different components that make up the application and provide instructions on how to use them.
+Welcome to the documentation for our [ViSNET AI]([https://visnetai.co/]) application! In this document, we will provide an overview of the AI application, its purpose, and its capabilities. We will also outline the different components that make up the application and provide instructions on how to use them.
 
 Our AI application is designed to provide users with intelligent and automated solutions to complex problems. It uses advanced algorithms and machine learning techniques to analyze data and provide insights and recommendations to users.
 
@@ -19,9 +20,10 @@ Finally, the inference module allows users to use the trained model to make pred
 
 We hope this documentation provides a comprehensive overview of our AI application and its capabilities. If you have any questions or need assistance using the application, please do not hesitate to contact our support team.
 
+#Architecture
+
 <iframe width="768" height="432" src="https://miro.com/app/embed/uXjVPhofS_U=/?pres=1&frameId=3458764547703090232&embedId=81715124679" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 <img src='./media/Architecture_Flowchart.jpg' alt='architecture flowchart' style='height:432px;width:768px;'/>
 
-[Image]( https://miro.com/app/live-embed/uXjVPhofS_U=/?moveToViewport=-1105,-503,2504,1403&embedId=832521026360 "architecture")
 
