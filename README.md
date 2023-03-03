@@ -1,3 +1,7 @@
+title: "Home"
+permalink: "/"
+layout: page
+
 *visnet-docs.github.io*
 =====================
 
