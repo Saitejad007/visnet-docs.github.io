@@ -1,9 +1,7 @@
-*Visnet AI Documentation v1.0*
--------------------
-
-
 <img src='./media/Visnet-logo-header.png' style='width:300px;' alt='logo'/>
 
+*Visnet AI Documentation v1.0*
+-------------------
 
 ## Introduction:
 
