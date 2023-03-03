@@ -76,3 +76,15 @@ For detailed view of the app userflow please follow the below presentation.
 
 ## Components used:
 
+The components that are used to build Visnet are as follows:
+* CustomInputField
+* PinField
+* CustomButton
+* CustomLoader
+* NavigationMenu
+* Recharts
+* SkeletonLoader
+* ImageThumbnail
+* Modal
+* ImageCarousal
+* Map
