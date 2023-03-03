@@ -22,9 +22,8 @@ We hope this documentation provides a comprehensive overview of our AI applicati
 
 ## Architecture:
 
-<iframe width="980" height="432" src="https://miro.com/app/embed/uXjVPhofS_U=/?pres=1&frameId=3458764547703090232&embedId=81715124679" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="980" height="432" src="https://miro.com/app/embed/uXjVPhofS_U=/?pres=1&frameId=3458764547703090232&embedId=81715124679&embedAutoplay=true" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
-<img src='./media/Architecture_Flowchart.jpg' alt='architecture flowchart' style='width:980px;'/>
 
 ## Tech Stack:
 
@@ -35,8 +34,10 @@ The client side of the application is built upon `Next.JS` which is framework on
 The server side of the application is built on Python with `FastAPI` framework. FastAPI is a RESTful web framework for building high performant, robust and production ready web server with Python.
 
 *Microservices:*
+The `Drone structural inspection` detects concrete surface defects on drone imagery. Visnet leverages advancements in AI and uses state-of-the-art instance segmentation model `YoloV8` and optimized for the present usecase.
 
 *Cloud service:*
+Visnet use open-source framework `BentoML` for model packaging and deployment purpose, also `AWS` cloud services like `EC2,S3` for cloud hosting and storage purposes.
 
 
 ## Guide to getting started:
@@ -58,3 +59,21 @@ To start the development server of the application run the below command in the 
 For detailed view of the app userflow please follow the below presentation.
 
 <iframe width="980" height="768" src="https://miro.com/app/live-embed/uXjVPhCOrcc=/?moveToViewport=-2333,-1246,1433,1035&embedId=360744919598&embedAutoplay=true" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+## Best Practices:
+
+* *Modularised styles:* With `Next.JS` we have the ability to split the css styles into modules and can be used alongside global styles.
+* *Reusability(Components):* Visnet application is split into reusable UI components. With the usage of components the application is modularised and is built with little code and is consistent across all the pages.
+* *Fonts and styles:* Visnet application contains single font family and the font styles are consistent across the pages.
+* *Comments:* Meaningful comments are added in the codebase wherever necessary.
+* *Clean codebase:* Visnet codebase is maintained in such a way that all the unnecessary code and the comments are removed so that the bundle size wont be impacted.
+* *Minimal usage of packages:* Visnet application is built with minimal usage of third party libraries and packages to avoid dpendency issues and unknown bugs.
+* *Optimized Images:* `Next.JS` brings optimization with Next `Image` component, by default this next/image component uses browser native lazy loading, which may fallback to eager loading for older browsers before Safari 15.4. Next.Js Image have the blur-up placeholder which can be used while the image is loading.
+* *Dynamic Imports:* For better performance dynamic imports of components which takes time to load at the initial rendering of the application. With the combination of lazy loading and dynamic imports Visnet got over `90%` score in `lighthouse` analysis.
+* *Strong Authorizatrion:* Visnet uses two level authentication with the combination of `jwt tokens` and `SHA-256` algorithm leveraging Next.JS server-side-rendering while eliminating any unthorized access.
+* *Prevented content flashing:* With the usage of Nxt.JS server-side-authentication Visnet eliminated unauthorized content flashing.
+* *Pre-fetching pages:* With Next.JS Visnet leveraged the prefetching of pages which reduces the FCP time of the application.
+* *Limited server calls:* With the usage of react hooks the number of API calls are minimized and the load on the server is balanced.
+
+## Components used:
+
