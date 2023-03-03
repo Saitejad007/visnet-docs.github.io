@@ -3,6 +3,8 @@
 
 <img src='./media/Visnet-header-logo.png' style='width:200px;' alt='logo'/>
 
+![Visnet Logo](/media/Visnet-header-logo.png)
+
 ## Introduction:
 
 Welcome to the documentation for our [ViSNET AI](https://visnetai.co/) application! In this document, we will provide an overview of the AI application, its purpose, and its capabilities. We will also outline the different components that make up the application and provide instructions on how to use them.
