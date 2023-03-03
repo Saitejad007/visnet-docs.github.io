@@ -28,15 +28,15 @@ We hope this documentation provides a comprehensive overview of our AI applicati
 
 ## Tech Stack:
 
-Frontend:
-The client side of the application is built upon Next.JS which is framework on top of React.JS. Next.JS supports pre-rendering, code-splitting, inbuilt routing, it is incredibly fast and brings in many optimizing techniches to make the application fast and reliable.
+*Frontend:*
+The client side of the application is built upon `Next.JS` which is framework on top of React.JS. Next.JS supports pre-rendering, code-splitting, inbuilt routing, it is incredibly fast and brings in many optimizing techniches to make the application fast and reliable.
 
-Backend:
-The server side of the application is built on Python with FastAPI framework. FastAPI is a RESTful web framework for building high performant, robust and production ready web server with Python.
+*Backend:*
+The server side of the application is built on Python with `FastAPI` framework. FastAPI is a RESTful web framework for building high performant, robust and production ready web server with Python.
 
-Microservices:
+*Microservices:*
 
-Cloud service:
+*Cloud service:*
 
 
 ## Guide to getting started:
@@ -56,4 +56,4 @@ To start the development server of the application run the below command in the 
 ## Userflow:
 
 For detailed view of the app userflow please follow the below presentation.
-<iframe width="980" height="768" src="https://miro.com/app/embed/uXjVPhCOrcc=/?pres=1&frameId=3458764547795029900&embedId=617654303397" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="980" height="768" src="https://miro.com/app/live-embed/uXjVPhCOrcc=/?moveToViewport=-2691,-1854,7680,3716&embedId=310567399004" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
