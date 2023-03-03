@@ -56,6 +56,5 @@ To start the development server of the application run the below command in the 
 ## Userflow:
 
 For detailed view of the app userflow please follow the below presentation.
-<iframe width="980" height="768" src="https://miro.com/app/live-embed/uXjVPhCOrcc=/?moveToViewport=-2691,-1854,7680,3716&embedId=310567399004" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
-<iframe width="980" height="768" src="https://miro.com/app/embed/uXjVPhCOrcc=/?pres=1&frameId=3458764547795029900&embedId=523964124008" frameborder="0" scrolling="yes" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="980" height="768" src="https://miro.com/app/live-embed/uXjVPhCOrcc=/?moveToViewport=-2333,-1246,1433,1035&embedId=360744919598&embedAutoplay=true" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
