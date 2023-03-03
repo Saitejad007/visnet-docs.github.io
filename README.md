@@ -33,7 +33,7 @@ The client side of the application is built upon `Next.JS` which is framework on
 The server side of the application is built on Python with `FastAPI` framework. FastAPI is a RESTful web framework for building high performant, robust and production ready web server with Python.
 
 *Microservices:*
-The `Drone structural inspection` detects concrete surface defects on drone imagery. Visnet leverages advancements in AI and uses state-of-the-art instance segmentation model `YoloV8` and optimized for the present usecase.
+The `Drone structural inspection` detects concrete surface defects on drone imagery. Visnet leverages advancements in AI and uses state-of-the-art instance segmentation model `YOLOv8` and optimized for the present usecase.
 
 *Cloud service:*
 Visnet use open-source framework `BentoML` for model packaging and deployment purpose, also `AWS` cloud services like `EC2,S3` for cloud hosting and storage purposes.
@@ -77,14 +77,28 @@ For detailed view of the app userflow please follow the below presentation.
 ## Components used:
 
 The components that are used to build Visnet are as follows:
-* CustomInputField
-* PinField
-* CustomButton
-* CustomLoader
-* NavigationMenu
-* Recharts
-* SkeletonLoader
-* ImageThumbnail
-* Modal
-* ImageCarousal
-* Map
+* Input Components
+* - CustomInputField
+* - PinField
+* Image Components
+* - ImageThumbnail
+* - Modal
+* - ImageCarousal
+* Common Components
+* - CustomButton
+* - CustomLoader
+* - NavigationMenu
+* - Recharts
+* - SkeletonLoader
+* - Map
+
+## Packages & Libraries used:
+
+- Mapbox API
+- js PDF
+- Recharts
+- js-sha256
+
+## References:
+
+[Next.JS](https://nextjs.org), [FastAPI](https://fastapi.tiangolo.com/), [AWS S3 Bucket](https://aws.amazon.com/s3), [YOLOv8](https://docs.ultralytics.com/), [BentoML](https://www.bentoml.com/), [Mapbox API](https://www.mapbox.com/), [js PDF](https://artskydj.github.io/jsPDF/docs/jsPDF.html), [Recharts](https://recharts.org/en-US/), [jwt](https://jwt.io/)
