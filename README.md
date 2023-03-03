@@ -85,12 +85,12 @@ The components that are used to build Visnet are as follows:
 * - Modal
 * - ImageCarousal
 * Common Components
-* - CustomButton
-* - CustomLoader
-* - NavigationMenu
-* - Recharts
-* - SkeletonLoader
-* - Map
+ - CustomButton
+ - CustomLoader
+ - NavigationMenu
+ - Recharts
+ - SkeletonLoader
+ - Map
 
 ## Packages & Libraries used:
 
