@@ -22,9 +22,9 @@ We hope this documentation provides a comprehensive overview of our AI applicati
 
 ## Architecture:
 
-<iframe width="768" height="432" src="https://miro.com/app/embed/uXjVPhofS_U=/?pres=1&frameId=3458764547703090232&embedId=81715124679" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="980" height="432" src="https://miro.com/app/embed/uXjVPhofS_U=/?pres=1&frameId=3458764547703090232&embedId=81715124679" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
-<img src='./media/Architecture_Flowchart.jpg' alt='architecture flowchart' style='width:768px;'/>
+<img src='./media/Architecture_Flowchart.jpg' alt='architecture flowchart' style='width:980px;'/>
 
 ## Tech Stack:
 
@@ -56,4 +56,4 @@ To start the development server of the application run the below command in the 
 ## Userflow:
 
 For detailed view of the app userflow please follow the below presentation.
-<iframe width="768" height="980" src="https://miro.com/app/embed/uXjVPhCOrcc=/?pres=1&frameId=3458764547795029900&embedId=617654303397" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="980" height="768" src="https://miro.com/app/embed/uXjVPhCOrcc=/?pres=1&frameId=3458764547795029900&embedId=617654303397" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
