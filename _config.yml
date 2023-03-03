@@ -1,7 +1,6 @@
-title: "ViSNET AI Documentation v1.0"
-author: "Sai Teja Devineni"
+title: ViSNET AI Documentation v1.0
+author: Sai Teja Devineni
 description: "At Visnet we solve modern problems 😎"
-permalink: /:title/
 theme: jekyll-theme-cayman
 lang: "en"
 excerpt_separator: "\n\n\n"
