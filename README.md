@@ -22,8 +22,7 @@ We hope this documentation provides a comprehensive overview of our AI applicati
 
 ## Architecture:
 
-<iframe width="980" height="432" src="https://miro.com/app/embed/uXjVPhofS_U=/?pres=1&frameId=3458764547703090232&embedId=81715124679&embedAutoplay=true" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
-
+<iframe width="980" height="768" src="https://miro.com/app/live-embed/uXjVPhofS_U=/?moveToViewport=-885,-496,1865,1328&embedId=296968678081&embedAutoplay=true" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 ## Tech Stack:
 
@@ -68,7 +67,7 @@ For detailed view of the app userflow please follow the below presentation.
 * *Comments:* Meaningful comments are added in the codebase wherever necessary.
 * *Clean codebase:* Visnet codebase is maintained in such a way that all the unnecessary code and the comments are removed so that the bundle size wont be impacted.
 * *Minimal usage of packages:* Visnet application is built with minimal usage of third party libraries and packages to avoid dpendency issues and unknown bugs.
-* *Optimized Images:* `Next.JS` brings optimization with Next `Image` component, by default this next/image component uses browser native lazy loading, which may fallback to eager loading for older browsers before Safari 15.4. Next.Js Image have the blur-up placeholder which can be used while the image is loading.
+* *Optimized Images:* `Next.JS` brings optimization with Next `next/image` component, by default this next/image component uses browser native lazy loading, which may fallback to eager loading for older browsers before Safari 15.4. Next.Js Image have the blur-up placeholder which can be used while the image is loading.
 * *Dynamic Imports:* For better performance dynamic imports of components which takes time to load at the initial rendering of the application. With the combination of lazy loading and dynamic imports Visnet got over `90%` score in `lighthouse` analysis.
 * *Strong Authorizatrion:* Visnet uses two level authentication with the combination of `jwt tokens` and `SHA-256` algorithm leveraging Next.JS server-side-rendering while eliminating any unthorized access.
 * *Prevented content flashing:* With the usage of Nxt.JS server-side-authentication Visnet eliminated unauthorized content flashing.
