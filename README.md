@@ -1,5 +1,3 @@
-*visnet-docs.github.io*
----------------------------
 
 
 ## Introduction:
