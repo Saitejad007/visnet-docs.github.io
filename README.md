@@ -1,7 +1,3 @@
-title: "Home"
-permalink: "/"
-layout: page
-
 *visnet-docs.github.io*
 =====================
 
@@ -56,3 +52,8 @@ Navigate to the local repository and run the following command in the terminal t
 To start the development server of the application run the below command in the terminal.
 
 <code>npm run dev</code>
+
+## Userflow:
+
+For detailed view of the app userflow please follow the below presentation.
+<iframe width="768" src="https://miro.com/app/embed/uXjVPhCOrcc=/?pres=1&frameId=3458764547795029900&embedId=617654303397" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
