@@ -1,5 +1,5 @@
 *visnet-docs.github.io*
-=====================
+---------------------------
 
 
 ## Introduction:
@@ -77,20 +77,20 @@ For detailed view of the app userflow please follow the below presentation.
 ## Components used:
 
 The components that are used to build Visnet are as follows:
-* Input Components
-* - CustomInputField
-* - PinField
-* Image Components
-* - ImageThumbnail
-* - Modal
-* - ImageCarousal
-* Common Components
- - CustomButton
- - CustomLoader
- - NavigationMenu
- - Recharts
- - SkeletonLoader
- - Map
+- Input Components
+   - CustomInputField
+   - PinField
+- Image Components
+   - ImageThumbnail
+   - Modal
+   - ImageCarousal
+- Common Components
+   - CustomButton
+   - CustomLoader
+   - NavigationMenu
+   - Recharts
+   - SkeletonLoader
+   - Map
 
 ## Packages & Libraries used:
 
